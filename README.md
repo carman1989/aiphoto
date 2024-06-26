@@ -56,6 +56,8 @@
 
 文档：[裁剪照片](https://github.com/itainf/aiphoto/wiki/%E8%A3%81%E5%89%AA%E7%85%A7%E7%89%87)
 
+https://zhuanlan.zhihu.com/p/163866263
+
 
 2020年7月26日更新
 
